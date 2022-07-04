@@ -26,8 +26,7 @@
  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> 
  <img align="center" alt="joao-git" height="30" width="40" 
  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> 
- 
- <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://tenor.com/view/code-coding-computer-gif-19684211">
+ <img align="right" alt="joao-gif" height="150" style="border-radius:50px;" src="https://www.mygo.ge/uploads/blog/1584023795.jpg">
 
 ## :speech_balloon: How to reach me
 
