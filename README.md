@@ -6,7 +6,7 @@
   <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhenrique12&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-## 👩‍💻: About me
+## :octocat: About me :octocat: 
 - 🏭 I'm a Automation Technician. I currently work in the area for Momento Projetos Industriais, automating industrial processes, mainly for mining companies such as VALE S.A.
 
 - :mortar_board: I'm in the process of learning and becoming a Fullstack developer, currently I'm focused more on Frontend.
