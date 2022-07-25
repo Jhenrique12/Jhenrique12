@@ -1,4 +1,4 @@
-## :star: Hey! I'm Henrique, coffe? :coffee: 
+## :star: Olá! Me chamo Henrique, café? :coffee: 
 
 <div align="center">
   <a href="https://github.com/Jhenrique12">
@@ -6,15 +6,15 @@
   <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhenrique12&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-## :octocat: About me :octocat: 
-- 🏭 I'm a Automation Technician. I currently work in the area for Momento Projetos Industriais, automating industrial processes, mainly for mining companies such as VALE S.A.
+## :octocat: Sobre mim :octocat: 
+- 🏭 Sou técnico em Automação Industrial. Atualmente trabalho na área pela Momento Projetos Industriais, automatizando processos industriais, principalmente para empresas mineradoras, como a VALE S/A. 
 
-- :mortar_board: I'm in the process of learning and becoming a Fullstack developer, currently I'm focused more on Frontend.
-- :book: Currently, I'm a Santander Scholar at Bootcamp Full Stack Developer.
+- :mortar_board: Estou no processo de aprendizagem e mudança de carreira para me tornar desenvolvedor Fullstack, atualmente meu foco é no Frontend utilzando Angular.
+- :book: Sou bolsista do programa Santander Bootcamp Full Stack Developer.
 
 
 
-## :computer: Tech Stacks
+## :computer: Tecnologias
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Joao-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -26,7 +26,7 @@
  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> 
  <img align="right" alt="joao-gif" height="150" style="border-radius:50px;" src="https://www.mygo.ge/uploads/blog/1584023795.jpg">
 
-## :speech_balloon: How to reach me
+## :speech_balloon: Onde me encontrar
 
 <div> 
   <a href="https://instagram.com/joojh_0" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
