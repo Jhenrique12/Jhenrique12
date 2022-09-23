@@ -9,7 +9,7 @@
 ## :octocat: Sobre mim :octocat: 
 - 🏭 Sou técnico em Automação Industrial. Atualmente trabalho na área pela Momento Projetos Industriais, automatizando processos industriais, principalmente para empresas mineradoras, como a VALE S/A. 
 
-- :mortar_board: Estou no processo de aprendizagem e mudança de carreira para me tornar desenvolvedor Fullstack, atualmente meu foco é no Frontend utilzando Angular/React.
+- :mortar_board: Estou no processo de aprendizagem e mudança de carreira para me tornar desenvolvedor Fullstack, atualmente meu foco é no Frontend utilizando Angular/React.
 
 
 
