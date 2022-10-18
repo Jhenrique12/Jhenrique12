@@ -1,10 +1,6 @@
 ## :star: Olá! Me chamo Henrique, café? :coffee: 
 
-<div align="center">
-  <a href="https://github.com/Jhenrique12">
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=Jhenrique12&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhenrique12&layout=compact&langs_count=7&theme=radical"/>
-</div>
+
 
 ## :octocat: Sobre mim :octocat: 
 - 🏭 Sou técnico em Automação Industrial. Atualmente trabalho na área pela Momento Projetos Industriais, automatizando processos industriais, principalmente para empresas mineradoras, como a VALE S/A. 
