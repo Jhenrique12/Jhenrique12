@@ -1,13 +1,13 @@
-## :star: Hello, World! Me chamo Henrique, café? :coffee: 
+## Hello, World! Me chamo João :coffee: 
   
-## :octocat: Sobre mim :octocat: 
+## Sobre mim :octocat: 
 - 🏭 Sou técnico em Automação Industrial. Atualmente trabalho na área pela Lynx Process, automatizando processos industriais. 
 
 - :mortar_board: Estou no processo de aprendizagem para me tornar desenvolvedor Fullstack, atualmente meu foco no Frontend é ReactJs e no Backend com Node.js.
 
 <div align="center">
   <a href="https://github.com/Jhenrique12">
-  <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhenrique12&layout=compact&langs_count=7&theme=radical"/>
+<!--   <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhenrique12&layout=compact&langs_count=7&theme=radical"/> -->
 <!--    <img   height="180em" width="48%"" src="https://github-readme-streak-stats.herokuapp.com/?user=Jhenrique12&theme=radical"/> -->
 </div>
 
