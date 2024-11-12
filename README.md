@@ -3,7 +3,7 @@
 ## Sobre mim :octocat: 
 - 🏭 Sou técnico em Automação Industrial. Atualmente trabalho na área pela Lynx Process, automatizando processos industriais. 
 
-- :mortar_board: Estou no processo de aprendizagem para me tornar desenvolvedor Fullstack, atualmente meu foco no Frontend é ReactJs e no Backend com Node.js.
+- :mortar_board: Desenvolvedor Frontend, e estou no processo de aprendizagem para me tornar desenvolvedor Fullstack.
 
 <div align="center">
   <a href="https://github.com/Jhenrique12">
