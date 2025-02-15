@@ -1,7 +1,7 @@
 ## Hello, World! Me chamo João :coffee: 
   
 ## Sobre mim :octocat: 
-- 🏭 Sou técnico em Automação Industrial. Atualmente trabalho na área pela Lynx Process, automatizando processos industriais. 
+- 🏭 Sou técnico em Automação Industrial. 
 
 - :mortar_board: Desenvolvedor Frontend, e estou no processo de aprendizagem para me tornar desenvolvedor Fullstack.
 
