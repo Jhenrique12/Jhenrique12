@@ -1,5 +1,3 @@
-## Hello, World! Me chamo João :coffee: 
-  
 ## Sobre mim :octocat: 
 - 🏭 Sou técnico em Automação Industrial. 
 
